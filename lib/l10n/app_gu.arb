@@ -1,0 +1,15 @@
+{
+  "homePage": "હોમ પેજ",
+  "personalInformation": "વ્યક્તિગત માહિતી",
+  "name": "નામ",
+  "nameHint": "તમારું નામ દાખલ કરો",
+  "email": "ઇમેઇલ",
+  "emailHint": "તમારો ઇમેઇલ દાખલ કરો",
+  "dateOfBirth": "જન્મ તારીખ",
+  "requiredField": "આવશ્યક ક્ષેત્ર",
+  "submitInfo": "માહિતી સબમિટ કરો",
+  "aboutUs": "અમારા વિશે",
+  "settings": "સેટિંગ્સ",
+  "changeLanguage": "ભાષા બદલો",
+  "mainContent" : "મુખ્ય સામગ્રી"
+}
